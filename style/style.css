@@ -1,0 +1,33 @@
+
+h1{
+          color: crimson;
+}
+/* style for all label */
+label{
+    width: 80px;
+    font-size: 18px;
+   
+   
+}
+/* style for form  */
+
+.form-part{
+    background-color: rgb(142, 245, 245);
+   
+
+}
+/* all button text color  */
+.button{
+    color: white;
+}
+/* disable error message  */
+#error-message{
+    color: red;
+    font-size: large;
+    display: none;
+}
+#error-message2{
+    color: red;
+    font-size: large;
+    display: none;
+}
